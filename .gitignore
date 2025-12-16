@@ -1,24 +1,17 @@
-# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Virtual environments
 .env
 .venv
 venv/
 env/
 
-# Jupyter
 .ipynb_checkpoints/
 
-# OS
 .DS_Store
 Thumbs.db
 
-# Streamlit
 .streamlit/
 
-# Data (optional: اگر دیتاست بزرگ شد)
-# data/*.csv
